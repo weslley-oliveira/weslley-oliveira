@@ -4,10 +4,11 @@
 
 Enthusiast of the best web & mobile development technologies.
 
-<br>
-
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
+## Bachelor in Computer engineer
+Methodist University of São Paulo - São Paulo
+February 2008 to December 2013
 
 ### Skills
 
@@ -36,7 +37,7 @@ Enthusiast of the best web & mobile development technologies.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslleyzera2020@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55119453&text=Ol%C3%A1!)
-<br>
+
 
 
 
