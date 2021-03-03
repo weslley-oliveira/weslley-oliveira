@@ -16,11 +16,12 @@ Enthusiast of the best web & mobile development technologies.
 [![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/weslley-oliveira)
 [![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/weslley-oliveira)
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/weslley-oliveira)
-[![Mongo Db](https://img.shields.io/badge/MongoDB-35495E?style=for-the-badge&logo=mongodb&logoColor=4FC08D)](https://github.com/weslley-oliveira)
-
-[![Node JS](https://img.shields.io/badge/Nodejs-3e863d?style=for-the-badge&logo=node.js&logoColor=4FC08D)](https://github.com/weslley-oliveira)
 [![StyledComponents Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://github.com/weslley-oliveira)
 [![Materialui Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/weslley-oliveira)
+
+[![Mongo Db](https://img.shields.io/badge/MongoDB-35495E?style=for-the-badge&logo=mongodb&logoColor=4FC08D)](https://github.com/weslley-oliveira)
+[![Node JS](https://img.shields.io/badge/Nodejs-3e863d?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/weslley-oliveira)
+
 
 ### Contanct:
 
