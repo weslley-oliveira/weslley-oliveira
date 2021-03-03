@@ -19,8 +19,11 @@ Enthusiast of the best web & mobile development technologies.
 [![Materialui Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/weslley-oliveira)
 [![StyledComponents Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://github.com/weslley-oliveira)
 
-[![Node JS](https://img.shields.io/badge/Nodejs-3e863d?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/weslley-oliveira)
+[![Tailwind Css](https://img.shields.io/badge/TailWind%20Css-ffffff?style=for-the-badge&logo=tailwind-css&logoColor=06b6d4)](https://github.com/weslley-oliveira)
+[![Next Js](https://img.shields.io/badge/Next%20Js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/weslley-oliveira)
+[![Node JS](https://img.shields.io/badge/Node%20Js-3e863d?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/weslley-oliveira)
 [![Mongo Db](https://img.shields.io/badge/MongoDB-35495E?style=for-the-badge&logo=mongodb&logoColor=4FC08D)](https://github.com/weslley-oliveira)
+
 
 
 
