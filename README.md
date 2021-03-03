@@ -25,7 +25,9 @@ Enthusiast of the best web & mobile development technologies.
 [![Node JS](https://img.shields.io/badge/Node%20Js-3e863d?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/weslley-oliveira)
 [![Mongo Db](https://img.shields.io/badge/MongoDB-35495E?style=for-the-badge&logo=mongodb&logoColor=4FC08D)](https://github.com/weslley-oliveira)
 
+### GitHub
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 
 ### Contanct:
@@ -33,5 +35,7 @@ Enthusiast of the best web & mobile development technologies.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslleyzera2020@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55119453&text=Ol%C3%A1!)
 <br>
+
+
 
 
