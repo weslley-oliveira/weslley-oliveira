@@ -1,6 +1,6 @@
-# Weslley Oliveira 
+# Weslley Oliveira 👨‍💻
 
-### Welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 Enthusiast of the best web & mobile development technologies.
 
@@ -13,7 +13,7 @@ Enthusiast of the best web & mobile development technologies.
 Methodist University of São Paulo - São Paulo
 February 2008 to December 2013
 
-## Skills
+## Skills ✔️
 
 [![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/weslley-oliveira)
 [![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/weslley-oliveira)
