@@ -27,9 +27,9 @@ Enthusiast of the best web & mobile development technologies.
 
 ### GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslley-oliveira&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=weslley-oliveira&show_icons=true&theme=tokyonight)
 
 
 ### Contanct
