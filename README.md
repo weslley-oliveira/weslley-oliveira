@@ -23,7 +23,7 @@ Enthusiast of the best web & mobile development technologies.
 ### Contanct:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslleyzera2020@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511945233253&text=Ol%C3%A1!)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55119453&text=Ol%C3%A1!)
 <br>
 
 
