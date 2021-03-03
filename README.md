@@ -1,12 +1,15 @@
 # Weslley Oliveira 
 
-### welcome to my github <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Enthusiast of the best web & mobile development technologies.
 
+- I'm from São Paulo - Brazil
+- Living in London - Uk
+
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
-### Bachelor in Computer engineer 💻
+### Bachelor in Computer Engineer 💻
 Methodist University of São Paulo - São Paulo
 February 2008 to December 2013
 
