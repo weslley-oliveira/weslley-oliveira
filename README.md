@@ -35,9 +35,6 @@ February 2008 to December 2013
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslley-oliveira&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=weslley-oliveira&show_icons=true&theme=tokyonight)
-
-
 ## Contanct  
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslleyzera2020@gmail.com)
