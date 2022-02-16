@@ -1,7 +1,7 @@
 <img align="right" src="./images/illustration.png" width="300"/>
 
-# Weslley Oliveira 
-- Front End Developer
+## Weslley Oliveira 
+Front End Developer
 
 ### Welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
