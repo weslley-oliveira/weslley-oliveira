@@ -4,7 +4,7 @@
 
 I'm Front End Developer from São Paulo living in London, passionate about human-machine interaction, being able to create these interactions is my job and also a hobby. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-[![]www.weslleyoliveira.com](https://www.weslleyoliveira.com)
+More info at [www.weslleyoliveira.com](https://www.weslleyoliveira.com)
 
 ## Bachelor degree of Computer Engineering 
 Methodist University of São Paulo - São Paulo
