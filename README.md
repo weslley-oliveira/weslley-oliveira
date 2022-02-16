@@ -3,9 +3,7 @@
 <h1> Weslley Oliveira </h1> 
 <p>Front End Developer</P>
 
-### Welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
-
-I'm Brazilian from São Paulo living in London, passionate about human-machine interaction, being able to create these interactions is my job and also a hobby.
+I'm Brazilian from São Paulo living in London, passionate about human-machine interaction, being able to create these interactions is my job and also a hobby. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 ### Bachelor in Computer Engineer 
 Methodist University of São Paulo - São Paulo
