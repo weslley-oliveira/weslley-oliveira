@@ -4,10 +4,8 @@
 
 ### Welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-Enthusiast of the best web & mobile development technologies.
-
-- I'm from São Paulo - Brazil
-- Living in London - Uk
+I'm passionate about human-machine interaction, being able to create these interactions is my job and also a hobby.
+A brazilian guy from São Paulo living in London.
 
 ### Bachelor in Computer Engineer 
 Methodist University of São Paulo - São Paulo
