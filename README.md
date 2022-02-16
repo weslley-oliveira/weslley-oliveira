@@ -1,11 +1,11 @@
 <img align="right" src="./images/illustration.png" width="300"/>
 
 # Weslley Oliveira 
+- Front End Developer
 
 ### Welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-I'm passionate about human-machine interaction, being able to create these interactions is my job and also a hobby.
-A brazilian guy from São Paulo living in London.
+I'm Brazilian from São Paulo living in London, passionate about human-machine interaction, being able to create these interactions is my job and also a hobby.
 
 ### Bachelor in Computer Engineer 
 Methodist University of São Paulo - São Paulo
